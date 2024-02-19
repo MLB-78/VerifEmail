@@ -83,5 +83,10 @@ hr[class="foot"]{
     background-color: gray;
 }
 
-/* pour le js */
+.verif{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(255, 193, 7);
+    color: white;
+}
 
